@@ -33,7 +33,5 @@ int main()
 		std::cout << "Invalid\n"; break;
 	}
 
-
-	std::cin.get();
 	return 0;
 }
