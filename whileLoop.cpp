@@ -18,6 +18,5 @@ int main()
 	num++;
 	}
 
-	std::cin.get();
 	return 0;
 }
