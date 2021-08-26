@@ -31,6 +31,6 @@ int main()
 
 	std::cout << ", BMI = " << bmi;
 
-	system("pause>0");
+	return 0;
 }
 
