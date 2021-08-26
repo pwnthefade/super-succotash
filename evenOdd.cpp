@@ -21,6 +21,6 @@ int main()
 
 	cout << "Thanks. Bye.";
 
-	system("pause>0");
+	return 0;
 }
 
