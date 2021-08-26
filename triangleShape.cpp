@@ -30,6 +30,5 @@ int main()
             cout << std::setw(3) << symbol;
     }
 
-    cin.get();
     return 0;
     }
