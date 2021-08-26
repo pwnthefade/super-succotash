@@ -33,8 +33,7 @@ int main()
             cout << std::setw(3)<<symbol;
     }
     cout << endl;
-
-    cin.get();
+    
     return 0;
 }
 
