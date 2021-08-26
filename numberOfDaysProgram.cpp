@@ -9,9 +9,6 @@ int main()
 	int year, month;
 	std::cout << "Year, month (yyyy m): ";
 	std::cin >> year >> month;
-
-	// determines if year is a leap year
-	// ((year % 4 == 0) && (year % 100 != 0) || (year % 400 ==0))
 		
 	// prints to console number of day in specified month, according to year
 	switch (month)
