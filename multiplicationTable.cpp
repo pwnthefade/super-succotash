@@ -19,8 +19,6 @@ int main()
             cout << i << "x" << j << "= " << (i * j) << endl;
     }
 
-
-    std::cin.get();
     return 0;
 }
 
