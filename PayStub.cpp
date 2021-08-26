@@ -22,7 +22,7 @@ int main() {
 	int dependents;
 	float netPay;
 	
-	// Magic formula -- finance calculations
+	// displays financial formatting
 	cout.setf(ios::fixed);
 	cout.setf(ios::showpoint);
 	cout.precision(2);
