@@ -17,7 +17,6 @@ int main()
 
     std::cout << "\n" << num << "! = " << factorial << "\n";
 
-    std::cin.get();
     return 0;
 }
 
