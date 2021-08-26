@@ -29,8 +29,5 @@ int main()
 
 	std::cout << "There are "<< numLength << " digits in number";
 
-
-
-	std::cin.get();
 	return 0;
 }
