@@ -29,9 +29,6 @@ int main()
     cout << endl;
 
     introduceMe(name, city, age);
-    //introduceMe("Charlie", "Charlotte", 33);
-    //introduceMe("Chuckie Lobo", "space");
 
-    cin.get();
     return 0;
 }
